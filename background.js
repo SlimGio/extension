@@ -28,7 +28,7 @@ chrome.runtime.onMessage.addListener(
             'https://ichef.bbci.co.uk/news/1024/cpsprodpb/693C/production/_95804962_p0517py6.jpg',
             'http://up.gc-img.net/post_img/2015/10/N5wbtafoAD6zG6J_3wZ7O_66.jpeg',
             'https://lh3.googleusercontent.com/wOaISKipagCM8JBahjrIWc3t38Nzxhe1UlfqAD5pqS8gpUq_hBaPYVQ8zTbmYyFKMRuhHPUaWY-nnLTsqOYZeQ=s0',
-            'https://s-media-cache-ak0.pinimg.com/736x/27/cf/cd/27cfcd2fefc4db6d3de473e3f7c7f00b.jpg'
+            'https://s-media-cache-ak0.pinimg.com/736x/27/cf/cd/27cfcd2fefc4db6d3de473e3f7c7f00b.jpg',
         ],
         handleImages : function (lstImgs, time)
         {
